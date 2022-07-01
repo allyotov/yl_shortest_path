@@ -1,4 +1,3 @@
-from ctypes import resize
 from itertools import permutations, combinations
 from unittest import installHandler
 POINTS = {
